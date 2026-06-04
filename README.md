@@ -37,7 +37,7 @@ The weather station integrates the following sensors and modules:
 
 The project is organized into several source files:
 
-#### monitoring_station.ino
+#### weather_station.ino
 
 Main application file responsible for:
 
